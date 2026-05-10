@@ -1,4 +1,4 @@
-CareerLift is a comprehensive job listing platform built to connect job seekers with employers, offering a range of customizable filters that make the job search process more efficient and user-focused.
+CarrerLift is a comprehensive job listing platform built to connect job seekers with employers, offering a range of customizable filters that make the job search process more efficient and user-focused.
 By leveraging various filtering options, users can easily sort and view job opportunities based on their preferences such as salary, work hours (full-time, part-time), and location.
 
 **Key Features:**
